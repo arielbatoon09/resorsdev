@@ -65,6 +65,15 @@ const initialResources: Resource[] = [
     image: "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/5699ecb1-2de1-4812-ac80-bdf3ee827dd2/1604282510/codesnack-ide-screenshot.png",
     bookmarked: false
   },
+  {
+    id: 8,
+    title: "HTML Color Codes",
+    description: "Find HTML color codes for your website using our color picker, and HTML color names.",
+    category: "tools",
+    link: "https://htmlcolorcodes.com/",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCZopO6-oil5SXHy9piYP4vXb1AMbwJstpXg&s",
+    bookmarked: false
+  },
 ];
 
 export const useResources = () => {
